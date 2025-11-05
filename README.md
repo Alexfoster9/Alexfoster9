@@ -72,15 +72,11 @@
 
 ### 📫 Как связаться со мной: 
 
-<div> 
-    <a href="mailto:alexeymusienko1996@gmail.com">
-        <img src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" width="40" height="40"/>
-    </a> 
-<!-- <a href="https://www.linkedin.com/in/artsiomrusau/" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
-    </a> -->
-    <a href="https://t.me/alexfoster6" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/128/5968/5968804.png" width="40" height="40" alt="telegram" />
-    </a>
-</div>
+<h3 align="center">📫 Как связаться со мной:</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/alexfoster9/"><img src="https://img.icons8.com/?size=512&id=13930&format=png" width="40" height="40" alt="LinkedIn"/></a>
+  <a href="https://t.me/alexfoster6"><img src="https://img.icons8.com/?size=512&id=63306&format=png" width="40" height="40" alt="Telegram"/></a>
+  <a href="mailto:alexeymusienko1996@gmail.com"><img src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" width="40" height="40" alt="Gmail"/></a>
+</p>
+
 
