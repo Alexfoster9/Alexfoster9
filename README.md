@@ -70,8 +70,6 @@
 --- -->
 
 
-### 📫 Как связаться со мной: 
-
 <h3 align="center">📫 Как связаться со мной:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/alexfoster9/"><img src="https://img.icons8.com/?size=512&id=13930&format=png" width="40" height="40" alt="LinkedIn"/></a>
