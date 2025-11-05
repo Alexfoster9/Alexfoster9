@@ -4,9 +4,9 @@
 В этом репозитории собраны практические работы по тестированию веб- и мобильных приложений, выполненные в рамках курсов.
 Подробнее о моих навыках - в резюме.
 
----
+<!-- --- -->
 
-### 📁 Тестовая документация:
+<!-- ### 📁 Тестовая документация:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
@@ -15,9 +15,9 @@
   <img src="https://cdn.brandfetch.io/idHX2dgyLS/w/1000/h/1000/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1761143950204" title="test-it" alt="test-it" width="40" height="40"/>&nbsp
   <img src="https://app.qase.io/assets/client/1762245334269/images/logo-night.698f1aa4.svg" title="qase" alt="qase" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp
-</div>
+</div> -->
 
----
+<!-- ---
 
 ### 🛠 Тестирование веб-приложений:
 
@@ -27,9 +27,9 @@
   <img src="https://static0.smartbear.co/smartbearbrand/media/images/home/soapui-icon.svg" title="soapui" alt="soapui" width="40" height="40"/>&nbsp
 </div>
 
----
+--- -->
 
-### 📱 Тестирование мобильных приложений:
+<!-- ### 📱 Тестирование мобильных приложений:
 
 <div>
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/android-studio-icon.png" title="android-studio" alt="android-studio" width="40" height="40"/>&nbsp
@@ -48,14 +48,14 @@
   <img src="https://d2lgmzy8vjj79z.cloudfront.net/mongodb.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp
 </div>
 
----
+--- -->
 
 ### ✏️ Работа с кодом:
 
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png?20180723054350" title="bash" alt="bash" width="40" height="40"/>&nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp -->
 
   <h2>🛠 Инструменты, которые я использую:</h2>
 <p align="center">
